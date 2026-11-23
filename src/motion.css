@@ -1,0 +1,38 @@
+@media (prefers-reduced-motion: no-preference) {
+  [data-framer-background-image-wrapper] { overflow: hidden; }
+  img { transition: scale .65s cubic-bezier(.22,.61,.36,1); }
+  .motion-card { transition: translate .32s ease-out; }
+  .motion-card.motion-entered { animation: card-arrival .65s cubic-bezier(.44,0,.56,1) backwards; }
+  .motion-rule { clip-path: inset(0 100% 0 0); transition: clip-path .7s cubic-bezier(.44,0,.56,1); }
+  .motion-rule.motion-entered { clip-path: inset(0); }
+  [data-framer-name="Arrow Icon"] { transition: translate .28s ease; }
+  @keyframes card-arrival { from { opacity: 0; translate: 0 16px; } }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .motion-card:hover { translate: 0 -3px; }
+  :is(.motion-card,[data-framer-name="Gallery Image"],[data-framer-name="Hotel Image"],[data-framer-name="Place Image"],[data-framer-name="Thumbnail Image"],[data-framer-name="Review Image"]):hover img { scale: 1.045; }
+  a:hover [data-framer-name="Arrow Icon"] { translate: 3px 0; }
+  :is([data-framer-name="Navigation Links"],[data-framer-name="Explore Links"],[data-framer-name="Footer Bottom"]) a {
+    background-image: linear-gradient(currentColor,currentColor);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 0 1px;
+    transition: background-size .32s ease;
+  }
+  :is([data-framer-name="Navigation Links"],[data-framer-name="Explore Links"],[data-framer-name="Footer Bottom"]) a:hover { background-size: 100% 1px; }
+}
+
+[data-framer-name="Contact Background"].booking-visible { transform: none !important; }
+@media (prefers-reduced-motion: no-preference) {
+  [data-framer-name="Contact Background"] { transition: transform 2s cubic-bezier(.19,1,.22,1); }
+  [data-framer-name="Question"] { transition: translate .32s cubic-bezier(.22,.68,.28,1); }
+  [data-framer-name="Question Row"]:focus-visible [data-framer-name="Question"] { translate: 8px 0; }
+  #gallery .hotel-ticker:hover, #gallery .hotel-ticker:focus-within { animation-play-state: running; }
+  .framer-k1kSk [data-active-slide="false"] { visibility:visible; pointer-events:none; }
+}
+@media (hover:hover) and (prefers-reduced-motion:no-preference) {
+  [data-framer-name="Question Row"]:hover [data-framer-name="Question"] { translate: 8px 0; }
+}
+@media (prefers-reduced-motion:reduce) {
+  [data-framer-name="Contact Background"] { transform:none!important; }
+}

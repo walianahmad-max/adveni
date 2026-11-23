@@ -1,0 +1,22 @@
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+[data-reveal] {
+  transition:
+    opacity 0.65s ease-out,
+    transform 0.65s ease-out;
+}
+[data-reveal].waiting-to-enter {
+  opacity: 0;
+  transform: var(--enter-offset);
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  [data-reveal] {
+    transition: none;
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "en": {
+    "slides": [
+      {
+        "eyebrow": "Faro, Algarve, Portugal",
+        "title": "A comfortable hotel stay in central Faro.",
+        "description": "Adveni is an independent mid-range hotel for easy Algarve stays, with comfortable rooms, daily breakfast, and Faro’s old town within easy reach.",
+        "primary": "View Rooms",
+        "secondary": "Explore Location",
+        "anchor": "location"
+      },
+      {
+        "eyebrow": "Stay 3 nights and save 10%.",
+        "title": "Book direct and start from €58/night.",
+        "description": "Enjoy comfortable rooms, breakfast included, and a simple stay in central Faro at our direct booking rate.",
+        "primary": "View Rooms",
+        "secondary": "Book Your Stay",
+        "anchor": "contact"
+      },
+      {
+        "eyebrow": "UPCOMING IN FARO",
+        "title": "Algarve Nature Fest is coming to Faro.",
+        "description": "From 25–27 September, explore Ria Formosa with free outdoor activities including walks, cycling, canoeing, birdwatching, and boat trips.",
+        "primary": "View Rooms",
+        "secondary": "Book Your Stay",
+        "anchor": "contact"
+      }
+    ],
+    "answers": [
+      "Check-in is available from 3:00 PM. Check-out is until 11:00 AM.",
+      "Early check-in and late check-out may be available depending on room availability. Contact the hotel before your stay to check.",
+      "The front desk is open 24 hours, so you can check in after the standard check-in time. Let the hotel know in advance if you expect to arrive very late.",
+      "Yes. A valid photo ID is required when checking in.",
+      "Yes. Children and families are welcome. Please choose a room that supports the total number of guests in your booking.",
+      "No. Pets are not allowed at Adveni Hotel.",
+      "Parking options are available near the hotel. Contact the front desk if you need help finding the best option for your stay.",
+      "No. Guest rooms and indoor hotel areas are non-smoking.",
+      "We accept major credit and debit cards. Available payment methods may vary depending on how your booking was made.",
+      "Cancellation and modification terms depend on the rate and booking method you selected."
+    ],
+    "places": [
+      {
+        "name": "Praia de Faro",
+        "description": "A long sandy beach for swimming, seaside walks, and relaxed afternoons by the Atlantic.",
+        "category": "Beach",
+        "distance": "8 km",
+        "travel": "12 min drive"
+      },
+      {
+        "name": "Faro Marina",
+        "description": "A relaxed waterfront area with cafés, boats, restaurants, and views across the marina.",
+        "category": "WATERFRONT",
+        "distance": "900 m",
+        "travel": "10 min walk"
+      },
+      {
+        "name": "Ria Formosa",
+        "description": "Explore lagoons, islands, wildlife, and coastal landscapes in one of the Algarve’s best-known natural areas.",
+        "category": "NATURE",
+        "distance": "11 km",
+        "travel": "18 min drive"
+      },
+      {
+        "name": "Faro Old Town",
+        "description": "Walk through cobbled streets, historic city walls, quiet squares, cafés, and local shops.",
+        "category": "HISTORIC CENTER",
+        "distance": "750 m",
+        "travel": "8 min walk"
+      },
+      {
+        "name": "Carmo Church & Chapel of Bones",
+        "description": "A historic church known for its ornate interior and the unusual Chapel of Bones.",
+        "category": "LANDMARK",
+        "distance": "800 m",
+        "travel": "10 min walk"
+      }
+    ]
+  },
+  "es": {
+    "slides": [
+      {
+        "eyebrow": "Faro, Algarve, Portugal",
+        "title": "Una estancia cómoda en el centro de Faro.",
+        "description": "Adveni es un hotel independiente de gama media para disfrutar del Algarve sin complicaciones, con habitaciones cómodas, desayuno diario y el casco antiguo de Faro a poca distancia.",
+        "primary": "Ver habitaciones",
+        "secondary": "Explorar la ubicación",
+        "anchor": "location"
+      },
+      {
+        "eyebrow": "Alójate 3 noches y ahorra un 10%.",
+        "title": "Reserva directamente desde €58/noche.",
+        "description": "Disfruta de habitaciones cómodas, desayuno incluido y una estancia sin complicaciones en el centro de Faro con nuestra tarifa de reserva directa.",
+        "primary": "Ver habitaciones",
+        "secondary": "Reserva tu estancia",
+        "anchor": "contact"
+      },
+      {
+        "eyebrow": "PRÓXIMAMENTE EN FARO",
+        "title": "Algarve Nature Fest llega a Faro.",
+        "description": "Del 25–27 de septiembre, explora Ria Formosa con actividades gratuitas al aire libre: paseos, ciclismo, piragüismo, observación de aves y excursiones en barco.",
+        "primary": "Ver habitaciones",
+        "secondary": "Reserva tu estancia",
+        "anchor": "contact"
+      }
+    ],
+    "answers": [
+      "La entrada está disponible a partir de las 3:00 PM. La salida debe realizarse antes de las 11:00 AM.",
+      "La entrada anticipada y la salida tardía pueden estar disponibles según la disponibilidad de habitaciones. Contacta con el hotel antes de tu estancia para consultarlo.",
+      "La recepción está abierta las 24 horas, por lo que puedes registrarte después del horario habitual de entrada. Avisa al hotel con antelación si prevés llegar muy tarde.",
+      "Sí. Se requiere un documento de identidad válido con fotografía al registrarse.",
+      "Sí. Los niños y las familias son bienvenidos. Elige una habitación con capacidad para el número total de huéspedes de tu reserva.",
+      "No. No se admiten mascotas en Adveni Hotel.",
+      "Hay opciones de aparcamiento cerca del hotel. Contacta con recepción si necesitas ayuda para encontrar la opción más adecuada para tu estancia.",
+      "No. No se permite fumar en las habitaciones ni en las zonas interiores del hotel.",
+      "Aceptamos las principales tarjetas de crédito y débito. Los métodos de pago disponibles pueden variar según cómo se haya realizado la reserva.",
+      "Las condiciones de cancelación y modificación dependen de la tarifa y del método de reserva que hayas elegido."
+    ],
+    "places": [
+      {
+        "name": "Praia de Faro",
+        "description": "Una larga playa de arena para nadar, pasear junto al mar y disfrutar de tardes tranquilas junto al Atlántico.",
+        "category": "Playa",
+        "distance": "8 km",
+        "travel": "12 min en coche"
+      },
+      {
+        "name": "Puerto deportivo de Faro",
+        "description": "Una tranquila zona junto al agua con cafés, barcos, restaurantes y vistas al puerto deportivo.",
+        "category": "FRENTE MARÍTIMO",
+        "distance": "900 m",
+        "travel": "10 min a pie"
+      },
+      {
+        "name": "Ria Formosa",
+        "description": "Explora lagunas, islas, fauna y paisajes costeros en uno de los espacios naturales más conocidos del Algarve.",
+        "category": "NATURALEZA",
+        "distance": "11 km",
+        "travel": "18 min en coche"
+      },
+      {
+        "name": "Casco antiguo de Faro",
+        "description": "Pasea por calles adoquinadas, murallas históricas, plazas tranquilas, cafés y tiendas locales.",
+        "category": "CENTRO HISTÓRICO",
+        "distance": "750 m",
+        "travel": "8 min a pie"
+      },
+      {
+        "name": "Iglesia de Carmo y Capilla de los Huesos",
+        "description": "Una iglesia histórica conocida por su ornamentado interior y la singular Capilla de los Huesos.",
+        "category": "LUGAR DE INTERÉS",
+        "distance": "800 m",
+        "travel": "10 min a pie"
+      }
+    ]
+  }
+}
